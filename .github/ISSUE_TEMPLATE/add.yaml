@@ -1,0 +1,24 @@
+name: Add Resource
+about: Use this template to add resources.
+
+body:
+  - type: textarea
+    id: resource
+    attributes:
+      label: What would you like to be added?
+    validations:
+      required: true
+
+  - type: textarea
+    id: category
+    attributes:
+      label: Which category (Music, Litrature, etc.) this belongs to?
+    validations:
+      required: true
+
+  - type: textarea
+    id: link
+    attributes:
+      label: Link to the resource?
+    validations:
+      required: true

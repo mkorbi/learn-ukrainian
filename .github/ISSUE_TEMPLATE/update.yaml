@@ -1,0 +1,24 @@
+name: Update Resource
+about: Use this template to update resources.
+
+body:
+  - type: textarea
+    id: resource
+    attributes:
+      label: What would you like to be updated?
+    validations:
+      required: true
+
+  - type: textarea
+    id: category
+    attributes:
+      label: On which page is this update needed?
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why you want to have this updated?
+    validations:
+      required: true

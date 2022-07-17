@@ -1,61 +1,17 @@
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gomah/bluise)
+# Learning Ukrainian
 
-# Bluise - A Nuxt.js & Netlify CMS boilerplate.
+Hey there!
 
-I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
+This is a simple collection of resources to learn, read, listen and watch Ukrainian.
 
-So far we've got:
+I started this little collection as I faced continuously misleading directions from standard tools like search engines, video content platforms, book recommendations and music streaming in Russian.
 
-- Blog w/ posts, including pagination.
-- Configurable manifest & global settings.
-- CSS Markdown (Thanks to [https://github.com/iandinwoodie/github-markdown-tailwindcss/blob/master/markdown.css]).
-- Dynamic pages.
-- PWA ready.
-- SEO ready for posts & pages.
-- Signup form (using Netlify Forms).
-- Tools (Commitlint, Husky).
-- Typescript.
+So, here we are, collecting what is reasonable and in Ukrainian :)
 
-Few things I'd like to add in the future:
+## How you can help
 
-- Contact form under \_slug.
-- Dynamic sections/widgets.
-- Responsive CSS markdown.
-- Tests
+Indeed, this page is not completed, and maybe it can go on forever. If you don't find something here listed, you can open a request to add it to the page, or if you are familiar with code, even open a pull request to merge your changes.
 
-## Quickstart
+### Big Tech 
 
-### Prerequisites
-
-- [Yarn](https://yarnpkg.com/lang/en/docs/install/#mac-tab)
-- [Node.js](https://nodejs.org/en/)
-
-```bash
-# ensure you have the prerequisites
-# install
-brew install node && brew install yarn
-
-# OR update
-brew update && brew upgrade && brew install yarn
-
-# install dependencies
-yarn install
-
-# serve with hot reload at localhost:3000
-yarn dev
-
-# build for production with minification
-yarn generate
-
-# run all tests
-yarn test
-```
-
-### Using Netlify CMS
-
-1. Deploy to Netlify.
-2. Enable Identity under Settings.
-3. Configure registration preferences & external providers if needed.
-4. Enable Git Gateway.
-
-_Note: You'll need to specify the Netlify URL when browsing the admin page locally._
+If you are employed in a big tech, hi! Please, open a process internally to support the Ukrainian language better than you do now. A hint: if you search for something in the internet, or on social networks or elsewhere, with Cyrillic letters, you almost ever end up on Russian content. English and German aren't the same, and we use the same letter, right? Thank you for being so supportive!

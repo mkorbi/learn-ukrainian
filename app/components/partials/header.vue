@@ -9,17 +9,39 @@
     <nav class="nav ml-auto">
       <ul class="flex flex-row items-center sm:mt-4 sm:pt-4 md:mt-0 md:pt-0 md:mr-4 lg:mr-8">
         <li>
+          <nuxt-link to="/music" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
+            Music
+          </nuxt-link>
+        </li>
+        <li>
+          <nuxt-link to="/litrature" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
+            Litrature
+          </nuxt-link>
+        </li>
+        <li>
+          <nuxt-link to="/YouTube" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
+            YouTube
+          </nuxt-link>
+        </li>
+        <li>
+          <nuxt-link to="/material" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
+            Learning Material
+          </nuxt-link>
+        </li>
+        <li>
+          <nuxt-link to="/nicetoread" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
+            Nice to Read
+          </nuxt-link>
+        </li>
+        <li>
+          <nuxt-link to="/about" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
+            About
+          </nuxt-link>
+        </li>
+        <li>
           <nuxt-link to="/blog" class="block font-medium px-4 py-1 md:p-2 lg:px-4">
             Blog
           </nuxt-link>
-        </li>
-
-        <li
-          v-for="(page, index) in pages"
-          :key="index"
-          class="block font-medium px-4 py-1 md:p-2 lg:px-4"
-        >
-          <nuxt-link :to="`/${page.slug}`">{{ page.title }}</nuxt-link>
         </li>
       </ul>
     </nav>

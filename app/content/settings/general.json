@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
+  "title": "Learn Ukrainian",
   "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "welcomeText": "## Hey there! \n \n Learning Ukrainian can be hard, the amount of resources are limited (yet) and most tools are not able to deliver you proper results in Ukrainian (Search Engines, Vide Platforms or Music Services). \n \n This collection should help you to succed! ",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "A small collection of Ukrainian resources to learn this language",
   "seoMetaImage": ""
 }
